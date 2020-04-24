@@ -1,1 +1,8 @@
-Tarkov_killcorfirm_php
+## Tarkov kill confirmed made in php
+Detects any new files written from the nvidia highlight folder and shows it in the browser
+
+
+screenshot: 
+
+![alt text](https://i.imgur.com/TvVihiv.png "Logo Title Text 1")
+
