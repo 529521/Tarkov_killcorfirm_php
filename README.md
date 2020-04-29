@@ -1,4 +1,4 @@
-## Tarkov kill confirmed made in php
+## Tarkov kill confirmed made in php (PATCHED WORKS NO MORE)
 Detects any new files written from the nvidia highlight folder and shows it in the browser
 
 
